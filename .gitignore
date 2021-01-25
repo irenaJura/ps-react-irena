@@ -34,6 +34,3 @@ node_modules
 
 # VSCode launch configuration
 launch.json
-
-# Webstorm
-.idea
