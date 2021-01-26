@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Docs from './docs/Docs';
 import reportWebVitals from './reportWebVitals';
-import '../node_modules/highlight.js/styles/ocean.css';
+import '../node_modules/highlight.js/styles/rainbow.css';
 
 ReactDOM.render(
   <React.StrictMode>
